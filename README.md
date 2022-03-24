@@ -1,2 +1,2 @@
-# instagram-clone
-Bootstrap ödev-2
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
